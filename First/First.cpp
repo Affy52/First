@@ -6,6 +6,6 @@ int main() {
     std::cout << "Настя: ";
     std::cin >> name;
     std::cout << "Привет, " << name << "!" << std::endl;
+    std::cout << "123456";
     return 0;
 }
-1234567890

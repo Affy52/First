@@ -8,3 +8,4 @@ int main() {
     std::cout << "Привет, " << name << "!" << std::endl;
     return 0;
 }
+1234567890
